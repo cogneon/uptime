@@ -1,7 +1,7 @@
 url: https://analytics.cogneon.de
-status: up
-code: 200
-responseTime: 2008
-lastUpdated: 2024-10-13T08:19:31.352Z
+status: down
+code: 500
+responseTime: 626
+lastUpdated: 2024-10-13T09:18:36.212Z
 startTime: 2024-08-28T05:08:48.209Z
 generator: Upptime <https://github.com/upptime/upptime>
