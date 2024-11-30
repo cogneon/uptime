@@ -13,6 +13,8 @@ sites:
     url: https://community.cogneon.de
   - name: COPAD
     url: https://pad.cogneon.io
+  - name: COPOD
+    url: https://podcasts.cogneon.io
   - name: Cogneon Analytics
     url: https://analytics.cogneon.de
   - name: lernos.org
