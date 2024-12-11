@@ -16,7 +16,7 @@ sites:
   - name: COPOD
     url: https://podcasts.cogneon.io
   - name: COFEED
-    url: https//feeds.cogneon.de
+    url: https//feeds.cogneon.io
   - name: Cogneon Analytics
     url: https://analytics.cogneon.de
   - name: lernos.org
