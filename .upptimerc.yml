@@ -28,14 +28,16 @@ status-website:
   # cname: demo.upptime.js.org
   baseUrl: /uptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Cogneon Uptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: Cogneon Upptime
+  introTitle: "**CogneonUpptime** ist der Uptime-Monitor der Plattformen von Cogneon."
+  introMessage: Die Daten auf dieser Seite werden alle 5 Minuten aktualisiert. Die Historie aller Incidents kann unten auf der Seite eingesehen werden.
   navbar:
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/cogneon/uptime
+  theme:
+    color: "#ff6600"
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
